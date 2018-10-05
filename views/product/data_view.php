@@ -1,0 +1,1 @@
+<h1 align="center"><?php echo $data; ?></h1>
